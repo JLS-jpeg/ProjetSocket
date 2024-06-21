@@ -1,0 +1,14 @@
+C:\Users\basti\OneDrive\Documents\Etudes\Etudes Supp\Licence\Cours\Prog Réseaux sous windows\SOCKET\PROJET\PROJET\SERVEUR\SERVEUR\SERVEUR\bin\Debug\net8.0\SERVEUR.exe
+C:\Users\basti\OneDrive\Documents\Etudes\Etudes Supp\Licence\Cours\Prog Réseaux sous windows\SOCKET\PROJET\PROJET\SERVEUR\SERVEUR\SERVEUR\bin\Debug\net8.0\SERVEUR.deps.json
+C:\Users\basti\OneDrive\Documents\Etudes\Etudes Supp\Licence\Cours\Prog Réseaux sous windows\SOCKET\PROJET\PROJET\SERVEUR\SERVEUR\SERVEUR\bin\Debug\net8.0\SERVEUR.runtimeconfig.json
+C:\Users\basti\OneDrive\Documents\Etudes\Etudes Supp\Licence\Cours\Prog Réseaux sous windows\SOCKET\PROJET\PROJET\SERVEUR\SERVEUR\SERVEUR\bin\Debug\net8.0\SERVEUR.dll
+C:\Users\basti\OneDrive\Documents\Etudes\Etudes Supp\Licence\Cours\Prog Réseaux sous windows\SOCKET\PROJET\PROJET\SERVEUR\SERVEUR\SERVEUR\bin\Debug\net8.0\SERVEUR.pdb
+C:\Users\basti\OneDrive\Documents\Etudes\Etudes Supp\Licence\Cours\Prog Réseaux sous windows\SOCKET\PROJET\PROJET\SERVEUR\SERVEUR\SERVEUR\obj\Debug\net8.0\SERVEUR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basti\OneDrive\Documents\Etudes\Etudes Supp\Licence\Cours\Prog Réseaux sous windows\SOCKET\PROJET\PROJET\SERVEUR\SERVEUR\SERVEUR\obj\Debug\net8.0\SERVEUR.AssemblyInfoInputs.cache
+C:\Users\basti\OneDrive\Documents\Etudes\Etudes Supp\Licence\Cours\Prog Réseaux sous windows\SOCKET\PROJET\PROJET\SERVEUR\SERVEUR\SERVEUR\obj\Debug\net8.0\SERVEUR.AssemblyInfo.cs
+C:\Users\basti\OneDrive\Documents\Etudes\Etudes Supp\Licence\Cours\Prog Réseaux sous windows\SOCKET\PROJET\PROJET\SERVEUR\SERVEUR\SERVEUR\obj\Debug\net8.0\SERVEUR.csproj.CoreCompileInputs.cache
+C:\Users\basti\OneDrive\Documents\Etudes\Etudes Supp\Licence\Cours\Prog Réseaux sous windows\SOCKET\PROJET\PROJET\SERVEUR\SERVEUR\SERVEUR\obj\Debug\net8.0\SERVEUR.dll
+C:\Users\basti\OneDrive\Documents\Etudes\Etudes Supp\Licence\Cours\Prog Réseaux sous windows\SOCKET\PROJET\PROJET\SERVEUR\SERVEUR\SERVEUR\obj\Debug\net8.0\refint\SERVEUR.dll
+C:\Users\basti\OneDrive\Documents\Etudes\Etudes Supp\Licence\Cours\Prog Réseaux sous windows\SOCKET\PROJET\PROJET\SERVEUR\SERVEUR\SERVEUR\obj\Debug\net8.0\SERVEUR.pdb
+C:\Users\basti\OneDrive\Documents\Etudes\Etudes Supp\Licence\Cours\Prog Réseaux sous windows\SOCKET\PROJET\PROJET\SERVEUR\SERVEUR\SERVEUR\obj\Debug\net8.0\SERVEUR.genruntimeconfig.cache
+C:\Users\basti\OneDrive\Documents\Etudes\Etudes Supp\Licence\Cours\Prog Réseaux sous windows\SOCKET\PROJET\PROJET\SERVEUR\SERVEUR\SERVEUR\obj\Debug\net8.0\ref\SERVEUR.dll
