@@ -1,1 +1,3 @@
 # ProjetWPF
+
+Copyright VANDAMME MERI FOURNIER & POLISZUK
