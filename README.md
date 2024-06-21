@@ -1,3 +1,2 @@
 # ProjetSocker
 
-Copyright VANDAMME MERI FOURNIER & POLISZUK
